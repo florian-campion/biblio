@@ -72,6 +72,7 @@ function createForm(){
             <input class="autor-modify" type="text" placeholder=" New Autor"/>
             <input class="categorie-modify" type="text" placeholder=" New Categorie"/>
             <button type="submit">Update</button>
+            <button name="delete">X</button>
         </form>
     `
 
